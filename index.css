@@ -1,0 +1,345 @@
+.header{
+    background-color: white;
+    width: 10%;
+    height: 90px;
+    margin-left: -7px;
+    display:inline-block;
+}
+.logo_school{
+    width: 80px;
+    height: 85px;
+    margin-left: 15px;
+}
+.header_1{
+    background-color: white;
+    height: 100px;
+    margin-left: 94px;
+    margin-top: -99px;
+    width: 1360px;
+}
+.school_name_1{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: auto;
+    display: inline-block;
+    margin-top: 42px;
+}
+.school_name_2{
+    margin-left: 1055px;
+    display: grid;
+    margin-top: -55px;
+    font-size: 15px;
+}
+.school_name_3{
+    font-size: 15px;
+    margin-left: 1055px;
+    display: grid;
+    margin-top: 1px;
+}
+.navbar{
+    background-color: antiquewhite;
+    width: 1347px;
+    margin-left: -12px;
+}
+.card {
+    position: relative;
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 315px;
+  }
+  
+  .card_part {
+    position: absolute;
+    transform: translateX( 700px );
+    animation: opaqTransition 28s cubic-bezier(0, 0, 0, 0.97) infinite;
+  }
+  
+  .card_part.card_part-two {
+    z-index: 6;
+    animation-delay: 7s;
+  }
+.card_part.card_part-three {
+    z-index: 5;
+    animation-delay: 14s;
+  }
+  
+  .card_part.card_part-four {
+    z-index: 4;
+    animation-delay: 21s;
+  }
+  .img1{
+    width: 700px;
+    height: 500px;
+    z-index: 1;
+  }
+  
+  
+  @keyframes opaqTransition {
+    3% { transform: translateX( 0 ); }
+    25% { transform: translateX( 0 ); }
+    28% { transform: translateX( -700px ); }
+    100% { transform: translateX( -700px ); }
+  }
+  .welcome{
+    margin-top: -25px;
+}
+.about_1{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 2em;
+    margin-top: 30px;
+    font-weight: initial;
+    color: #444;
+    margin-left: 70px;
+}
+.about_2{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 2em;
+    margin-top: 30px;
+    font-weight: initial;
+    color: #46f;
+    margin-left: 5px;
+}
+.about_des{
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+    width: 565px;
+    margin-left: 75px;
+    margin-top: -5px;
+}
+.video{
+    margin-left: 710px;
+    margin-top: -266px;
+    display: inline-block;
+}
+.adminstrator_1{
+    margin-left: 500px;
+    font-size: 40px;
+    margin-top: 70px;
+    font-weight: bold;
+    display: inline-block;
+}
+.adminstrator_2{
+    max-width: 272px;
+    margin-left: 325px;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 0 15px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    height: 390px;
+    display: inline-block;
+}
+.adminstrator_3{
+    width: 272px;
+    margin-left: 45px;
+    margin-top: 15px;
+    padding: 0 15px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    display: inline-block;
+    height: 395px;
+}
+.abi_paul{
+    margin-left: 76px;
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.power{
+    margin-left: 110px;
+}
+.senson{
+    margin-left: 101px;
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.power_2{
+    margin-left: 92px;
+}
+#career{
+    height: 400px;
+    margin-top: 50Px;
+}
+.career_1 {
+    margin-left: 70px;
+    margin-top: 30px;
+    display: inline-block;
+    text-decoration-line: underline;
+    font-size: 35px;
+}
+.career_2{
+    display: inline-grid;
+}
+.career_2_0{
+    margin-left: 330px;
+    margin-top: 41px;
+    display: inline-grid;
+    font-size: 25px;
+    color: #ffff
+}
+.career_bio{
+    margin-left: 35px;
+    margin-top: 50px;
+    display: inline-grid;
+    font-size: 30px;
+}
+.career_cs{
+    margin-left: 35px;
+    margin-top: 50px;
+    display: inline-grid;
+    font-size: 30px;
+}
+.career_com{
+    margin-left: 35px;
+    margin-top: 50px;
+    display: inline-grid;
+    font-size: 30px;
+}
+.career_bio_2{
+    margin-left: 3px;
+    color: aqua;
+    font-size: 12px;
+}
+.send_1{
+    margin-left: 657px;
+    margin-top: 29px;
+    height: 40px;
+    width: 145px;
+    border-radius: 20px;
+}
+.service{
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    height: 400px;
+    margin-top: 30Px;
+}
+.service_1{
+    width: 500px;
+    margin-left: 655px;
+    height: 45px;
+    margin-top: 29px;
+    BORDER-RADIUS: 15px;
+}
+.service_2{
+    margin-top: 30px;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 90px;
+    color: #666;
+}
+.service_3{
+    margin-left: 90px;
+    color: #666;
+}
+.service_4{
+    margin-top: -210px;
+}
+.service_5{
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 14px;
+    color: #d0d0d0;
+    
+}
+.footer{
+    background-color: #1a1d40;
+    width: 1336px;
+    height: 365px;
+    margin-left: -2px;
+    display: inline-block;
+}
+#testimonials{
+    height: 350px;
+    display: grid;
+}
+.testimonials_1{
+    margin-left: 110px;
+    margin-top: 10px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_2{
+    margin-left: 105px;
+    margin-top: 2px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_3 {
+    font-size: 17px;
+    margin-top: 10px;
+    display: grid;
+    margin-left: 405px;
+}
+.testimonials_1_0{
+    margin-top: 15px;
+}
+.testimonials_1_1{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.testimonials_4{
+    margin-left: 110px;
+    margin-top: 4px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_5{
+    margin-left: 105px;
+    margin-top: 2px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_6 {
+    font-size: 17px;
+    margin-top: 10px;
+    display: grid;
+    margin-left: 405px;
+}
+.testimonials_1_2{
+    margin-left: 195px;
+}
+.testimonials_7{
+    margin-left: 370px;
+    margin-top: -255px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_8{
+    margin-left: 370px;
+    margin-top: 2px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_9 {
+    font-size: 17px;
+    margin-top: 10px;
+    display: grid;
+    margin-left: 659px;
+}
+.testimonials_1_3{
+    margin-left: 520px;
+    margin-top: 137px;
+    display: inline-block;
+}
+.testimonials_10{
+    margin-left: 370px;
+    margin-top: -245px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_11{
+    margin-left: 370px;
+    margin-top: 2px;
+    font-size: 21px;
+    display: grid;
+}
+.testimonials_12 {
+    font-size: 17px;
+    margin-top: 10px;
+    display: grid;
+    margin-left: 659px;
+}

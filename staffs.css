@@ -1,0 +1,146 @@
+.header{
+    background-color: white;
+    width: 10%;
+    height: 90px;
+    margin-left: -7px;
+    display:inline-block;
+}
+.header_1{
+    background-color: white;
+    height: 100px;
+    margin-left: 94px;
+    margin-top: -99px;
+    width: 1360px;
+}
+.school_name_1{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: auto;
+    display: inline-block;
+    margin-top: 42px;
+}
+.school_name_2{
+    margin-left: 1055px;
+    display: grid;
+    margin-top: -55px;
+    font-size: 15px;
+}
+.school_name_3{
+    font-size: 15px;
+    margin-left: 1055px;
+    display: grid;
+    margin-top: 1px;
+}
+.header2_0{
+    background-color: blanchedalmond;
+    width: 101%;
+    height: 32px;
+    box-shadow: 0 5px 5px rgb(133 133 133 / 65%);
+    margin-top: 10px;
+    margin-left: -6px;
+}
+.navbar{
+    background-color: antiquewhite;
+    width: 1347px;
+    margin-left: -12px;
+}
+.logo{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 34px;
+}
+.logo_school{
+    width: 80px;
+    height: 85px;
+    margin-left: 15px;
+}
+.logo_4{
+    margin-left: 1055px;
+    display: grid;
+    margin-top: -40px;
+    font-size: 15px;
+}
+.logo_5{
+    font-size: 15px;
+    margin-left: 1055px;
+    display: grid;
+    margin-top: 1px;
+}
+.logo2_0{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 86px;
+    background-color: blanchedalmond;
+    border:none;
+    display: inline-block;
+    margin-top: 7px;
+}
+.staffs_1{
+    margin-left: 525px;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+}
+.staffs_2{
+    width: 232px;
+    margin-left: 55px;
+    margin-top: 50px;
+    padding: 0 15px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    display: inline-block;
+    height: 400px;
+}
+.service_2{
+    margin-top: 30px;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 90px;
+    color: #666;
+}
+.service_3{
+    margin-left: 90px;
+    color: #666;
+}
+.service_4{
+    margin-top: -210px;
+}
+.service_5{
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 14px;
+    color: #d0d0d0;
+    
+}
+.footer{
+    background-color: #1a1d40;
+    width: 1336px;
+    height: 365px;
+    margin-left: -2px;
+    display: inline-block;
+}
+.service{
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    height: 400px;
+    margin-top: 30Px;
+}
+.send_1{
+    margin-left: 657px;
+    margin-top: 29px;
+    height: 40px;
+    width: 145px;
+    border-radius: 20px;
+}
+.service_1{
+    width: 500px;
+    margin-left: 655px;
+    height: 45px;
+    margin-top: 29px;
+    BORDER-RADIUS: 15px;
+}
